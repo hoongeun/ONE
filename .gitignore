@@ -41,3 +41,4 @@
 
 # Makefile
 /Makefile
+.cache/clangd/index
