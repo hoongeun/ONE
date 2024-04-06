@@ -27,7 +27,6 @@
 #include <json.h>
 
 #include <iostream>
-#include <map>
 #include <string>
 
 using LayerParam = luci::CircleQuantizer::Options::LayerParam;
